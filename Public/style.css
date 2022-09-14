@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    margin-right: 659px;
+    margin-top: 140px;
+}
+
+.navbar{
+display: flex;
+justify-content: space-evenly;
+}
+
+.contenunavbar{
+text-decoration: none;
+}
